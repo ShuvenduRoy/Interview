@@ -1,4 +1,4 @@
-#if 0
+#if 1
 #include <iostream>
 #include <limits.h>
 using namespace std;
@@ -37,8 +37,6 @@ int main()
 	int arr[] = { 1, 3, 5, 5, 2, 1, 1, 6 };
 	int arr1[] = { 2, 3, 7, 8 };
 	cout << SubsetSum(arr,5,11) << endl;
-
-	getchar();
 }
 
 #endif
