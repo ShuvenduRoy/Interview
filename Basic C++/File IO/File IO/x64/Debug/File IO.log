@@ -1,3 +1,0 @@
-﻿  cout.cpp
-File IO.obj : error LNK2005: main already defined in cout.obj
-C:\Users\Bikash\Documents\C++ Projects\File IO\x64\Debug\File IO.exe : fatal error LNK1169: one or more multiply defined symbols found

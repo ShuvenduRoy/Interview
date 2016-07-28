@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1447793514 source:e:\document\programming problem\number theory\divisors\main.cpp
-	<iostream>
-	<stdio.h>
-	<stdlib.h>
-	<vector>
-

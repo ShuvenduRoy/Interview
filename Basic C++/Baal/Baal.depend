@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1462658514 source:e:\program\codeblock\baal\main.cpp
-	<iostream>
-	<cstdio>
-	<cstring>
-	<algorithm>
-	<math.h>
-	<vector>
-
