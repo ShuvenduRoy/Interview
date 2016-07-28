@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449730429 source:e:\document\programming problem\algorithm\dynamic programming\uva 111\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+
