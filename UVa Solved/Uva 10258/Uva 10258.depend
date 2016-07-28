@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1449107139 source:e:\document\programming problem\stl c++\algorithm\uva 10258\main.cpp
+	<algorithm>
+	<iostream>
+	<sstream>
+	<cstring>
+	<string>
+	<vector>
+	<map>
+

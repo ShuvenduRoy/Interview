@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453371085 source:c:\users\bikash\documents\uva\uva 610\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1453670614 source:e:\onedrive\algorithm\mathematics\uva 11857\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<queue>
+	<algorithm>
+

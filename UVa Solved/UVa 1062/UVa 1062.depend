@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458807792 source:c:\users\bikash\documents\uva\uva 1062\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<cstdio>
+	<cstring>
+

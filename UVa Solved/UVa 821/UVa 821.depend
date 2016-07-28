@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452455249 source:c:\users\bikash\documents\uva\uva 821\main.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<cstring>
+

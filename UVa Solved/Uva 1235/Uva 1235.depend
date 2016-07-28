@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1452325701 source:c:\users\bikash\documents\uva\uva 1235\main.cpp
+	<iostream>
+	<algorithm>
+	<iterator>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<vector>
+	<cmath>
+	<queue>
+	<climits>
+	<stack>
+	<map>
+	<set>
+
