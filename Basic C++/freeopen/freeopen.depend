@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1456597122 source:c:\users\bikash\documents\uva\freeopen\main.c
+	<stdio.h>
+	<stdlib.h>
+

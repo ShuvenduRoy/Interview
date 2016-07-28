@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450292117 source:e:\document\programming problem\algorithm\dynamic programming\longest palindron\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

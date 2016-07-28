@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461148675 source:c:\users\bikash\documents\c++ projects\array container\main.cpp
+	<iostream>
+	<array>
+	<cstring>
+
