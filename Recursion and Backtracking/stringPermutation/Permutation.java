@@ -33,7 +33,7 @@ public class Permutation {
 			index++;
 		}
 		
-		List<String> resultList = new ArrayList();
+		List<String> resultList = new ArrayList<String>();
 		char result[] = new char[input.length];
 		permuteUtil(str,count,result,0,resultList);
 		return resultList;
