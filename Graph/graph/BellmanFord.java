@@ -1,5 +1,4 @@
-package bellmanFord;
-import graph.Graph;
+package graph;
 
 public class BellmanFord {
 	
