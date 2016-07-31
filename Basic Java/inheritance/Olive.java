@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Olive {
+public class Olive implements Comparable<Olive>{
 
 	public OliveName oliveName;
 	public OliveColor color;
@@ -19,4 +19,11 @@ public class Olive {
 			", color: " + this.color.toString();
 	}
 
+	@Override
+	public int compareTo(Olive o) {
+		String s1 = this.getClass().getSimpleName();
+		String s2 = o.getClass().getSimpleName();
+		return s1.compareTo(s2);
+	}
+	
 }
