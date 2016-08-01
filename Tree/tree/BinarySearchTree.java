@@ -27,6 +27,18 @@ public class BinarySearchTree {
 		return head;
 	}
 	
+	public Node search(Node root, int key){
+		if(root==null)
+			return null;
+		if(root.data==key){
+			return root;
+		}else if(root.data<key){
+			return search(root.right,key);
+		}else{
+			return search(root.left,key);
+		}
+	}
+	
 	public int height(Node root){
 		if(root==null){
 			return 0;
@@ -48,5 +60,7 @@ public class BinarySearchTree {
         head = bt.addNode(-1, head);
         head = bt.addNode(21, head);
         System.out.println(bt.height(head));
+        Node result = bt.search(head, 21);
+        System.out.println(result.data == 21);
     }
 }
