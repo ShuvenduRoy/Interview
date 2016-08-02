@@ -35,7 +35,8 @@ int main()
 
     //if we want to find which are multiple of a given nummber
     //process without lambda
-    int e = count_if(col.begin(), col.end(), isMultipleOf(5));
+    int multi = 5;
+    int e = count_if(col.begin(), col.end(), isMultipleOf(multi));
     cout<<"Integer that are multiple of 5 : "<<e<<endl;
 
     //
