@@ -14,6 +14,7 @@ public class BinarySearchTree {
 			if(data<temp.data){
 				temp=temp.left;
 			}
+			
 			else{
 				temp=temp.right;
 			}
@@ -48,6 +49,7 @@ public class BinarySearchTree {
 		return Math.max(leftHeight, rightHeight) + 1;
 	}
 	
+	
 	public static void main(String args[]){
 		BinarySearchTree bt = new BinarySearchTree();
         Node head = null;
@@ -62,5 +64,5 @@ public class BinarySearchTree {
         System.out.println(bt.height(head));
         Node result = bt.search(head, 21);
         System.out.println(result.data == 21);
-    }
+    } 
 }
