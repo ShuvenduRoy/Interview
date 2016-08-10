@@ -17,11 +17,8 @@ public class TreeDriver {
         
         //Call the Derived Function
         
-        MorrisPreOrder  mt = new MorrisPreOrder();
-        //MorrisInorderTraversal mi = new MorrisInorderTraversal();
-        InvertBinaryTree ibt = new InvertBinaryTree();
-        ibt.Invert(root);
-        mt.PreOrder(root);
+        MaximumDepth tree = new MaximumDepth();
+        System.out.println(tree.Height(root));
 
 	}
 
