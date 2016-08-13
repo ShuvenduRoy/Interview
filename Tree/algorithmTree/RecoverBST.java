@@ -30,9 +30,9 @@ public class RecoverBST {
 		helper(root);
 		
 		if(node1!=null && node2!=null){
-			TreeNode temp  = node1;
-			node1=node2;
-			node2= temp;
+			int temp  = node1.val;
+			node1.val=node2.val;
+			node2.val= temp;
 		}
 	}
 	
