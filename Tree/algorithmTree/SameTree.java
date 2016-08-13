@@ -1,4 +1,11 @@
 package algorithmTree;
+/**
+ * 
+ * LeetCode 100
+ * @author Shuvendu Roy Bikash
+ * Solved on: 13 Aug 2016 ( Night before 2-1 exam :p )
+ *
+ */
 
 public class SameTree extends BinarySearchTree {
 
