@@ -1,5 +1,7 @@
 package algorithmTree;
 
+import java.util.ArrayList;
+
 public class TreeDriver {
 
 	public static void main(String[] args) {
@@ -18,8 +20,15 @@ public class TreeDriver {
         //Call the Derived Function
         
         MaximumDepth tree = new MaximumDepth();
-        System.out.println(tree.Height(root));
+        System.out.println("The tree height is "+tree.Height(root));
 
+        InorderIterativeTraverse it = new InorderIterativeTraverse();
+        ArrayList<Integer> array = it.inorderTraversal(root);
+        System.out.println("PreOrder Traversal in iterative way: ");
+        for(int i=0; i<array.size(); i++){
+        	System.out.print(array.get(i)+ " ");
+        }
+        
 	}
 
 }
