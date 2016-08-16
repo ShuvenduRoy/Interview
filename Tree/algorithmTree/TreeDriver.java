@@ -21,10 +21,10 @@ public class TreeDriver {
         
         MaximumDepth tree = new MaximumDepth();
         System.out.println("The tree height is "+tree.Height(root));
-
-        InorderIterativeTraverse it = new InorderIterativeTraverse();
-        ArrayList<Integer> array = it.inorderTraversal(root);
-        System.out.println("PreOrder Traversal in iterative way: ");
+        
+        PostOrderIterativeTraverse pt = new PostOrderIterativeTraverse();
+        ArrayList<Integer>array = pt.PostOrder(root);
+        System.out.println("Post Traversal in iterative way: ");
         for(int i=0; i<array.size(); i++){
         	System.out.print(array.get(i)+ " ");
         }
