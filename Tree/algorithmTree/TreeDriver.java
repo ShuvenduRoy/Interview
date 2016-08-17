@@ -22,9 +22,18 @@ public class TreeDriver {
         MaximumDepth tree = new MaximumDepth();
         System.out.println("The tree height is "+tree.Height(root));
         
-        PostOrderIterativeTraverse pt = new PostOrderIterativeTraverse();
-        ArrayList<Integer>array = pt.PostOrder(root);
+        InorderIterativeTraverse it = new InorderIterativeTraverse();
+        ArrayList<Integer>array = it.inorderTraversal(root);
         System.out.println("Post Traversal in iterative way: ");
+        for(int i=0; i<array.size(); i++){
+        	System.out.print(array.get(i)+ " ");
+        }
+        
+        Deletion dt = new Deletion();
+        root = dt.Delete(root, 19);
+        
+        array = it.inorderTraversal(root);
+        System.out.println("\nPost Traversal in iterative way After deletion: ");
         for(int i=0; i<array.size(); i++){
         	System.out.print(array.get(i)+ " ");
         }
