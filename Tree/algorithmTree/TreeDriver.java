@@ -38,6 +38,14 @@ public class TreeDriver {
         	System.out.print(array.get(i)+ " ");
         }
         
+        ZigZagLevelOrderTraversal zt = new ZigZagLevelOrderTraversal();
+        ArrayList<ArrayList<Integer>> arr = zt.Traversal(root);
+        System.out.println("\nZigZag traversal:  ");
+        for(int i=0; i<arr.size(); i++){
+        	for(int j=0; j<arr.get(i).size(); j++){
+        		System.out.print(arr.get(i).get(j) + " ");
+        	}
+        }
 	}
 
 }
