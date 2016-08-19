@@ -1,4 +1,4 @@
-package leetcode96;
+package leetcode096;
 
 public class Solution {
 	public int numTrees(int n){

@@ -1,4 +1,4 @@
-package leetcode94;
+package leetcode094;
 
 import java.util.ArrayList;
 import java.util.Stack;

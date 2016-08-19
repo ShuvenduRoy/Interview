@@ -1,4 +1,4 @@
-package leetcode98;
+package leetcode098;
 
 import algorithmTree.TreeNode;
 

@@ -1,4 +1,4 @@
-package leetcode99;
+package leetcode099;
 
 import algorithmTree.*;
 
