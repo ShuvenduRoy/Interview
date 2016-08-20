@@ -28,7 +28,7 @@ int main()
         else if(name[i] == 90)
             printf("A");
 
-            if(name[i]>=97 && name[i]<=121)  //In ASCII value a=97 to z=122
+        else if(name[i]>=97 && name[i]<=121)  //In ASCII value a=97 to z=122
             printf("%c",name[i]+1);
         else if(name[i] == 122)
             printf("a");
