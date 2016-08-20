@@ -11,8 +11,3 @@ This is Shuvendu Roy BIkash. And Here is my home of programming
 * [Searching & Sorting] (https://github.com/Bikash300895/CS/wiki/Searching-&-Sorting)
 * [Object Oriented Programming C++](https://github.com/Bikash300895/Interview/wiki/Object-Oriented-Programming-C--)
 
-# LeetCode Solution
-
-  Problem 235 : [Lowest common ancestor] (https://github.com/Bikash300895/Interview/tree/master/Tree/leetcode235)<br/>
-  Problem 53 : [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/) -- [Java](https://github.com/Bikash300895/Interview/tree/master/DynamicProgramming/MaximumSubArray)<br/>
-  Problem 1 : [Two Sum](https://leetcode.com/problems/two-sum/)
