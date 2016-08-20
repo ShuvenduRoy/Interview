@@ -20,18 +20,19 @@ int main()
     {
         if(name[i]>=48 && name[i]<=56)  //In ASCII value 0==48 to 9==57
             printf("%c",name[i]+1);
-        if(name[i] == 57)
+        else if(name[i] == 57)
             printf("0");
 
-        if(name[i]>=65 && name[i]<=89)  //In ASCII value A==65 to Z==90
+        else if(name[i]>=65 && name[i]<=89)  //In ASCII value A==65 to Z==90
             printf("%c",name[i]+1);
-        if(name[i] == 90)
+        else if(name[i] == 90)
             printf("A");
 
             if(name[i]>=97 && name[i]<=121)  //In ASCII value a=97 to z=122
             printf("%c",name[i]+1);
-        if(name[i] == 122)
+        else if(name[i] == 122)
             printf("a");
+	else printf("*"); // The last condition
 
     }
 }
