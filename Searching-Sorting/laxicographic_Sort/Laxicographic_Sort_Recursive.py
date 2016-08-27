@@ -13,3 +13,9 @@ class Solution(object):
 
         solve(1)
         return result
+
+
+if __name__ == '__main__':
+    s = Solution();
+    arr = s.lexicalOrder(15);
+    print arr
