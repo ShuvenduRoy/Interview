@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1453687170 source:e:\onedrive\algorithm\mathematics\uva 534\main.cpp
-	<algorithm>
-	<cstdio>
-	<iostream>
-	<math.h>
-	<limits.h>
-

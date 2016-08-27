@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1457135669 source:c:\users\bikash\documents\uva\uva 11222\main.cpp
-	<iostream>
-	<cstdio>
-	<algorithm>
-	<map>
-	<vector>
-

@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1449181056 source:e:\document\programming problem\stl c++\algorithm\uva 11988\main.cpp
-	<iostream>
-	<algorithm>
-	<list>
-	<cstring>
-	<cstdio>
-

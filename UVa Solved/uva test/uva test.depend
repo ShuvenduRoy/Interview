@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1453147068 source:c:\users\bikash\documents\uva\uva test\main.cpp
-	<iostream>
-	<list>
-	<cstdio>
-	<cstring>
-	<sstream>
-	<iostream>
-

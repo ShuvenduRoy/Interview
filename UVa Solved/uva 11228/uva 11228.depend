@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1452713228 source:c:\users\bikash\documents\uva\uva 11228\main.cpp
-	<iostream>
-	<cstdio>
-	<cstring>
-	<algorithm>
-	<math.h>
-	<vector>
-
