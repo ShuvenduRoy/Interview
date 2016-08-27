@@ -1,4 +1,3 @@
-#if 0
 #include <iostream>
 #include <algorithm>
 #include <cmath>
@@ -65,6 +64,3 @@ int main()
 	getchar();
 	return 0;
 }
-
-
-#endif

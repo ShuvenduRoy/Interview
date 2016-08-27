@@ -1,4 +1,3 @@
-#if 0
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -23,7 +22,7 @@ void permute(char *s, int l, int r)
 	}
 }
 
-int main()
+public static void main(String[] args)
 {
 	char str[] = "ABC";
 	int n = strlen(str);
@@ -31,4 +30,3 @@ int main()
 	getchar();
 	return 0;
 }
-#endif
