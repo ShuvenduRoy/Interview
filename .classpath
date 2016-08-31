@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="DynamicProgramming"/>
+	<classpathentry kind="src" path="DP"/>
 	<classpathentry kind="src" path="Geometry"/>
 	<classpathentry kind="src" path="Mathematics"/>
-	<classpathentry kind="src" path="Searching-Sorting"/>
+	<classpathentry kind="src" path="Search_Sort"/>
 	<classpathentry kind="src" path="Recursion"/>
 	<classpathentry kind="src" path="Basic Java"/>
-	<classpathentry kind="src" path="LeetCode Solution"/>
+	<classpathentry kind="src" path="LeetCode"/>
 	<classpathentry kind="src" path="String"/>
-	<classpathentry kind="src" path="Codeforces Contest"/>
+	<classpathentry kind="src" path="Codeforces"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="Graph"/>
 	<classpathentry kind="src" path="Tree"/>
-	<classpathentry kind="src" path="AdvanceDataStructure"/>
+	<classpathentry kind="src" path="Data_Structure"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
