@@ -4,7 +4,7 @@
 	<classpathentry kind="src" path="Geometry"/>
 	<classpathentry kind="src" path="Mathematics"/>
 	<classpathentry kind="src" path="Searching-Sorting"/>
-	<classpathentry kind="src" path="Recursion and Backtracking"/>
+	<classpathentry kind="src" path="Recursion"/>
 	<classpathentry kind="src" path="Basic Java"/>
 	<classpathentry kind="src" path="LeetCode Solution"/>
 	<classpathentry kind="src" path="String"/>
