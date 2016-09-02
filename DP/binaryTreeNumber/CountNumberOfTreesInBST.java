@@ -7,7 +7,7 @@ public class CountNumberOfTreesInBST {
             return(1);
         }
         else {
-            int sum = 0;
+            int sum = 0; 
             int left, right, root;
             for (root=1; root<=numKeys; root++) {
                 left = countTreesRec(root - 1);
