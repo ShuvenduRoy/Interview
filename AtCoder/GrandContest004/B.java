@@ -1,6 +1,7 @@
 package GrandContest004;
-
+//Verdict: TIme limit exceed
 import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class B {
