@@ -2,7 +2,7 @@ package CodeforcesRound_373_Div2;
 
 import java.util.Scanner;
 
-public class Main {
+public class A {
 	static Scanner sc;
 
 
@@ -19,7 +19,16 @@ public class Main {
 		for(int i=0; i<n; i++){
 			data[i] = sc.nextInt();
 		}
-		if(n==1){
+		
+		if(data[n-1] == 15){
+			
+			System.out.println("DOWN");
+			
+		} else if(data[n-1] == 0){
+			
+			System.out.println("UP");
+		} 
+		else if(n==1){
 			
 			System.out.println(-1);
 			
