@@ -52,8 +52,6 @@ public class Knapsack {
 		Knapsack K = new Knapsack();
 		
 		System.out.print("Enter the total value:  ");
-		//in = new Scanner(System.in);
-		//int total = in.nextInt();
 		
 		int result = K.MaximumVal(wt,val,7); // pass total
 		System.out.println("Total value is "+ result);
