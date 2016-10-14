@@ -1,14 +1,16 @@
 def lis(arr):
     n = len(arr)
     lisCount = [1]*n
+    print(lisCount)
 
-    for i in range(0,n-1):
-        for j in range(i,n-1):
-            if(arr[j]>arr[i] and lisCount[j]<lisCount[i]+1):
+    for i in range(0,n):
+        for j in range(i,n):
+            if( (arr[j]>arr[i]) and (lisCount[j]<lisCount[i]+1) ):
                 lisCount[j] = lisCount[i]+1
 
+    print(lisCount)
     maxLen = 0;
-    for i in range (0,n-1):
+    for i in range (0,n):
         if(lisCount[i]>maxLen):
             maxLen = lisCount[i]
 
