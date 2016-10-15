@@ -8,16 +8,16 @@ import java.util.Map;
  * Created by Bikash on 10/16/2016.
  */
 public class DisjointSet {
-    private Map<Long, Node> map = new HashMap<>();
+    private Map<Integer, Node> map = new HashMap<>();
 
     class Node{
-        long data;
+        int data;
         Node parent;
         int rank;
         LinkedList<Node> adj = new LinkedList<>();
     }
 
-    public void makeSet(long data){
+    public void makeSet(int data){
         Node node = new Node();
         node.data = data;
         node.parent = node;
@@ -25,7 +25,7 @@ public class DisjointSet {
         map.put(data, node);
     }
 
-    public boolean union(long data1, long data2){
+    public boolean union(int data1, int data2){
         Node node1 = map.get(data1);
         Node node2 = map.get(data2);
 
@@ -56,7 +56,7 @@ public class DisjointSet {
         return node.parent;
     }
 
-    public long findSet(long data) {
+    public int findSet(int data) {
         return findSet(map.get(data)).data;
     }
 
