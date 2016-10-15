@@ -11,8 +11,9 @@ import java.util.Scanner;
  */
 
 public class Graph {
-    private int V;                          //Number of vertices
-    private LinkedList<Integer> adj[];      //Array of linked list
+    protected int V;                          //Number of vertices
+    protected LinkedList<Integer> adj[];      //Array of linked list
+
 
     //Default Constructor that comes with default data
     protected Graph(){
@@ -71,7 +72,7 @@ public class Graph {
             addEdge(1, 2);
             addEdge(2, 0);
             addEdge(2, 3);
-            addEdge(3, 4);
+            addEdge(3, 3);
 
     }
 
