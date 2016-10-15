@@ -7,7 +7,7 @@ import java.util.Iterator;
 /**
  * Created by Bikash on 10/15/2016.
  */
-public class DFS  extends Graph{
+public class DFS  extends Graph {
     private boolean [] visited;
 
     private DFS(){
