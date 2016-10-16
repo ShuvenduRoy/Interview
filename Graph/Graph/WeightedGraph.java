@@ -16,18 +16,18 @@ public class WeightedGraph {
 
 
     protected int V;    //Number of vertices
-    private Map<Integer, Node> map = new HashMap<>();
+    protected Map<Integer, Node> nodes = new HashMap<>();
 
-    class Node{
-        int data;
-        Node parent;
-        int rank;
-        LinkedList<Edge> adj = new LinkedList<>();
+    public class Node{
+        public int data;
+        public Node parent;
+        public int rank;
+        public LinkedList<Edge> adj = new LinkedList<>();
     }
 
-    class Edge{
-        int dest;
-        int weight;
+    public class Edge{
+        public int dest;
+        public int weight;
 
         public Edge(){
 
@@ -54,10 +54,15 @@ public class WeightedGraph {
     //Constructor for directed graph
     protected WeightedGraph(String fileName){
 
-        addSampleDataFromFile(fileName);
+        addSampleDataFromFile(fileName,1);
 
     }
 
+    protected WeightedGraph(String fileName, int i){
+
+        addSampleDataFromFile(fileName,i);
+
+    }
 
     protected void makeGraph(int v){
         V = v;
@@ -73,7 +78,7 @@ public class WeightedGraph {
         node.data = data;
         node.parent = node;
         node.rank = 0;
-        map.put(data, node);
+        nodes.put(data, node);
     }
 
 
@@ -86,7 +91,7 @@ public class WeightedGraph {
         int E = 6;
 
         for(int i=0; i<6; i++){
-            Node node = map.get(src[i]);
+            Node node = nodes.get(src[i]);
             Edge edge = new Edge(dest[i],weight[i]);
             node.adj.add(edge);
         }
@@ -94,7 +99,7 @@ public class WeightedGraph {
 
 
     //Adding file from current directory
-    protected void addSampleDataFromFile(String fileName){
+    protected void addSampleDataFromFile(String fileName, int i){
         try{
 
             URL path = Graph.class.getResource(fileName);
@@ -111,9 +116,20 @@ public class WeightedGraph {
                 int v = sc.nextInt();
                 int w = sc.nextInt();
 
-                Node node = map.get(u);
-                Edge edge = new Edge(v,w);
-                node.adj.add(edge);
+                if(i==1){
+                    Node node = nodes.get(u);
+                    Edge edge = new Edge(v,w);
+                    node.adj.add(edge);
+                } else if (i==2){
+                    Node node = nodes.get(u);
+                    Edge edge = new Edge(v,w);
+                    node.adj.add(edge);
+
+                    node = nodes.get(v);
+                    edge = new Edge(u,w);
+                    node.adj.add(edge);
+                }
+
 
             }
 
@@ -126,8 +142,8 @@ public class WeightedGraph {
 
 
     public boolean union(int data1, int data2){
-        Node node1 = map.get(data1);
-        Node node2 = map.get(data2);
+        Node node1 = nodes.get(data1);
+        Node node2 = nodes.get(data2);
 
         Node parent1 = findSet(node1);
         Node parent2 = findSet(node2);
@@ -157,7 +173,7 @@ public class WeightedGraph {
     }
 
     public int findSet(int data) {
-        return findSet(map.get(data)).data;
+        return findSet(nodes.get(data)).data;
     }
 
 
@@ -167,7 +183,7 @@ public class WeightedGraph {
         for(int i=0; i<V; i++){
             System.out.print(i + " :");
 
-            Node node = map.get(i);
+            Node node = nodes.get(i);
             for(int j=0; j<node.adj.size(); j++){
                 System.out.print(" " + node.adj.get(j).dest + " -> " + node.adj.get(j).weight + " , ");
             }
