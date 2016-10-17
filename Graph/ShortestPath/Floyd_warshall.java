@@ -10,16 +10,25 @@ import java.util.Arrays;
 public class Floyd_warshall extends WeightedGraph {
 
     public Floyd_warshall(String fileName){
-        super(fileName);
+        super(fileName,2);
     }
 
     public void ShortestPath(){
         int [][] dest = new int[V][V];
-        Arrays.fill(dest, matrix);
+
+
+        //Arrays.fill(dest, matrix);
+        for(int i=0; i<V; i++){
+            for(int j=0; j<V; j++){
+                dest[i][j] = matrix[i][j];
+
+            }
+        }
+
 
         for(int i=0; i<V; i++){
-            for(int j=0; j<V; i++){
-                for(int k=0; k<V; j++){
+            for(int j=0; j<V; j++){
+                for(int k=0; k<V; k++){
                     if(dest[i][k]+dest[k][j]<dest[i][j]){
                        dest[i][j] = dest[i][k]+dest[k][j];
                     }
@@ -29,7 +38,12 @@ public class Floyd_warshall extends WeightedGraph {
 
         for(int i=0; i<V; i++){
             for(int j=0; j<V; j++){
-                System.out.print(dest[i][j]);
+                if(dest[i][j]>=Integer.MAX_VALUE/10){
+                    System.out.print("INF ");
+                }else {
+                    System.out.print(String.format("%-4s",dest[i][j]));
+                }
+
             }
             System.out.println();
         }

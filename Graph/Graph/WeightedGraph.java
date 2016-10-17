@@ -2,10 +2,7 @@ package Graph;
 
 import java.io.*;
 import java.net.URL;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 
 /**
@@ -86,6 +83,14 @@ public class WeightedGraph {
 
     public void makeMatrix(){
         matrix = new int[V][V];
+
+        for(int i=0; i<V; i++){
+            for(int j=0; j<V; j++){
+                matrix[i][j] = Integer.MAX_VALUE/10;
+            }
+        }
+
+
         for(int u=0; u<V; u++){
             Node node = nodes.get(u);
             for(int j=0; j<node.adj.size(); j++){
