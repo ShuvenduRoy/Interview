@@ -1,4 +1,4 @@
-package Equation_Solve;
+package Guess_Elemination;
 
 import java.io.File;
 import java.net.URL;
