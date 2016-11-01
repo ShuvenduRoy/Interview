@@ -12,7 +12,6 @@ class Solution(object):
                 stack.append(m*10)
         
         return result
-        
 
         
 if __name__ == '__main__':
