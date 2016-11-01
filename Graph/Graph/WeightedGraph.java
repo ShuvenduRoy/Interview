@@ -2,10 +2,7 @@ package Graph;
 
 import java.io.*;
 import java.net.URL;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 
 /**
@@ -17,6 +14,7 @@ public class WeightedGraph {
 
     protected int V;    //Number of vertices
     protected Map<Integer, Node> nodes = new HashMap<>();
+    protected int [][] matrix;
 
     public class Node{
         public int data;
@@ -55,12 +53,14 @@ public class WeightedGraph {
     protected WeightedGraph(String fileName){
 
         addSampleDataFromFile(fileName,1);
+        makeMatrix();
 
     }
 
     protected WeightedGraph(String fileName, int i){
 
         addSampleDataFromFile(fileName,i);
+        makeMatrix();
 
     }
 
@@ -79,6 +79,27 @@ public class WeightedGraph {
         node.parent = node;
         node.rank = 0;
         nodes.put(data, node);
+    }
+
+    public void makeMatrix(){
+        matrix = new int[V][V];
+
+        for(int i=0; i<V; i++){
+            for(int j=0; j<V; j++){
+                matrix[i][j] = Integer.MAX_VALUE/10;
+            }
+        }
+
+
+        for(int u=0; u<V; u++){
+            Node node = nodes.get(u);
+            for(int j=0; j<node.adj.size(); j++){
+                int v = node.adj.get(j).dest;
+                int w = node.adj.get(j).weight;
+
+                matrix[u][v] = w;
+            }
+        }
     }
 
 
