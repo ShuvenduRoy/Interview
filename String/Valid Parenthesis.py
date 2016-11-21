@@ -13,7 +13,6 @@ class Solution(object):
                 else:
                     x = stack.pop()
 
-
                 if s[i] == ')' and x=='(':
                     continue
                 elif s[i] == '}' and x=='{':
