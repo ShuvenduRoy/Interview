@@ -1,11 +1,12 @@
 from collections import deque
-
+import numpy as np
 
 class Solution(object):
     def removeInvalidParentheses(self, s):
 
         def isValid(s):
             a = 0
+            b = np.array(3)
             for c in s:
                 a += {'(':1, ')':-1}.get(c,0)
                 if a<0:
