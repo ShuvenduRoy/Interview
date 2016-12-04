@@ -1,8 +1,12 @@
-def calc(ans, a, b):
-    temp = (a ) * (b )
-    if temp > ans:
-        ans = temp
-    return ans
+def findMax(dp):
+    tempMax = 0;
+    sum = 0
+    n = len(dp)
+    for i in range(n):
+        sum += dp[i]
+        if sum>tempMax:
+            tempMax = sum
+    return tempMax
 
 
 class Solution(object):
@@ -11,23 +15,20 @@ class Solution(object):
         if m == 0:
             return 0
         n = len(matrix[0])
+        ans = 0
 
-        dp = [[0 for j in range(n)] for i in range(m)]
-        for i in range(m):
-            dp[i][0] = int(matrix[i][0])
+        dp = [0 for _ in range(m)]
+
         for i in range(n):
-            dp[0][i] = int(matrix[0][i])
+            for j in range(i,n):
+                for k in range(m):
+                    dp[k] = dp[k] + int(matrix[k][j])
+                temp = findMax(dp)
+                if temp>ans:
+                    ans = temp
 
-        for i in range(1,m):
-            for j in range(1,n):
-                if matrix[i][j] == '1':
-                    dp[i][j] = min(int(matrix[i-1][j]),
-                                       int(matrix[i][j-1]),
-                                           int(matrix[i-1][j-1]))+1
-                else:
-                    dp[i][j] = 0
-        return dp[i][j]
-
+            dp = [0 for _ in range(m)]
+        return ans
 
 test = ["10100","10111","11111","10010"]
 s = Solution()
