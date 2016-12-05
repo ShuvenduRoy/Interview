@@ -7,7 +7,7 @@ if n>2:
 
 a = 2
 b = 3
-while(a+b<n):
+while(a+b<=n):
     res+=1
     a,b = b,a+b
 
