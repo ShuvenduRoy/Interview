@@ -20,3 +20,4 @@ class Solution(object):
                 heapreplace(h, (n.next.val, n.next))
             node.next = n
             node = node.next
+        return dummy.next
