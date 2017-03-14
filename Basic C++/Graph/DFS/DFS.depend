@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1449263083 source:e:\document\programming problem\algorithm\graph\dfs\main.cpp
-	<iostream>
-	<vector>
-	<stack>
-
