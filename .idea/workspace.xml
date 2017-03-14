@@ -2,257 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d9951b-dc83-4a88-b34f-46fc29c1208f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DP/Algorithm/LengthApproach/LongestPalindromicSubsequence.ipynb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Array Container/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Array STL/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Array/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Arrray/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Big Mod/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Big sum/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Bigmod/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Binary Search/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/BinarySearch/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Bionomial  Coefficient/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Box Sraciking/Box Sraciking.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Box Sraciking/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Cascating/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Circular Queue/Q.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Class Templete/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Code force/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Coin Change/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Coin Exchange/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Combination_Generate/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Complex multiplication with file concept/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Complex multiplication with file concept/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Complex multiplication with file concept/output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Complex with file 2/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Complex with file 2/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Complex with file 2/output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Complex_number/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Composition/Creature.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Composition/Point2D.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Composition/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Compound Statement/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Cpp Exam/2014.1.2/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Cpp class preprocessor/date.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Cpp class preprocessor/date.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Default Argument/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Derangement number/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Divide And Conquare/Maximum-subarray-problem/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Divisors/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Dynamic_Mamory/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Edit Path/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Edit disance/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/FIle input output/in.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/FIle input output/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Fib/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/File IN/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Fixed_Width Int/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Formated Cout/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/GCD/GCD.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/GCD/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Global Variable/Global Variable.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Global Variable/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/GradeBook/GradeBook.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/GradeBook/GradeBook.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/GradeBook/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/1. Adjacancy Matrix/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/10. Snake and Ledder Problem/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/2. BFS/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/3. DFS/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/BFS/BFS.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/BFS/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/BFS/main.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/DFS/DFS.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/DFS/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Graph/Uva 10653/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Greedy/Uva 10020/Uva 10020.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Greedy/Uva 10020/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Greedy/Uva 10340/project_nov24a.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Greedy/Uva 410/Uva 410.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Greedy/Uva 410/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Header file/add.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Header file/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Inesrt Iterator/Inesrt Iterator.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Inesrt Iterator/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Infix to postfix to Evaluation/Prefix to postfix to Evaluation.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Infix to postfix to Evaluation/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Initialization/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/InverseMatrix/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Kruskal's Minimum Spanning Tree/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Kruskal's Minimum Spanning Tree/Kruskal's Minimum Spanning Tree.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Kruskal's Minimum Spanning Tree/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/LCS/LCS.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/LCS/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/LIS/LIS.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/LIS/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/LPS/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Lambda/Lambda.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Lambda/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Lamda Expression/bin/Debug/Lamda Expression" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Lamda Expression/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/LinkesList/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/LinkesList/source.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/List/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Longest Independent set/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Longest Palindron/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/MAP/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Magic_num/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Mathematics/4. Lucky Number/4. Lucky Number.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Mathematics/4. Lucky Number/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Mathematics/Sieve_of_Eratosthenis/Sieve_of_Eratosthenis.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Mathematics/Sieve_of_Eratosthenis/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Mathematics/Sieve_of_Eratosthenis/test.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Mathematics/Sieve_of_Eratosthenis/test.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Matrix sum/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Matrix/Matrix.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Matrix/include/Sum.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Matrix/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Matrix/src/Sum.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Matrix/sum.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Maximum Sum/Maximum Sum.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Maximum Sum/Untitled2.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Maximum Sum/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Maximum_Size_Subset_with1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Minimum Jump/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/MultiMap/MultiMap.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/MultiMap/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Multiset/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/NameSpace/foo.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/NameSpace/goo.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/NameSpace/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/No of binary strint without consecutive 1s/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/O Overload/I/O Overload.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/O Overload/I/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/OOP/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Operator Overload/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Operator [] Overload/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Overload Everything/Overload Everything.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Overload Everything/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Overloading Constructor/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Overloading Unary Operator/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Own STL/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Parmutation/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Pertial Templete/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Plaindrome/Plaindrome.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Plaindrome/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Postfix Evalustion/Postfix Evalustion.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Postfix Evalustion/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Prefix_to_Postfix/Prefix_to_Postfix.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Prefix_to_Postfix/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Preprocessor/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Prime1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Quick Sort/Quick Sort.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Quick Sort/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Raw String/Raw String.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Raw String/add.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Raw String/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Recursion/Recursion.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Recursion/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Remove2/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Remove3.1/Remove3.1.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Remove3.1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Removing Element/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 10038/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 10050/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 11093/11093.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 11093/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 11222/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 394/394.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 394/Github 394.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 394/Program/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 482/482.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 482/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 591/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 665/665.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 665/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/Uva 755/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/uva 10260/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/uva 10260/uva 10260.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/uva 414/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/1D Arry with vector/uva 414/uva 414.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/2D Arry with Vector/Uva 101/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/2D Arry with Vector/Uva 541/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/Algorithm/Nexrt Permutation/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/Map and Set/UVa 501/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/Map and Set/Uva 417/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/Map and Set/Uva 484/Uva 484.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/Map and Set/Uva 484/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/Map and Set/Uva 978/Uva 978.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/STL C++/Map and Set/Uva 978/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Set/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Sorting and Sercing/Heap Sort/Heap Sort.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Sorting and Sercing/Heap Sort/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Sorting and Sercing/InsertionSort/InsertionSort.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Sorting and Sercing/InsertionSort/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Sorting and Sercing/MergeSort/MergeSort.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Sorting and Sercing/MergeSort/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Stack &amp; queue/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Stack/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Static/Static.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Static/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Stream Iterator/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Struct_CPP/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Suffix array/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Summed area table/Summed area table.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Summed area table/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Summed area table/main.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Templete/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Tree/BFS/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/URP Lab test/4.1/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/URP Lab test/4.2/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/URP Lab test/4.5/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/URP Lab test/4.7/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/URP Lab test/4.8/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/URP Lab test/file/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/URP Lab test/file/main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/URP Lab test/file/output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/Ugly Number/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/ctime/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/dequeue/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/div2 255 1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/double subscript overloading/double subscript overloading.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/double subscript/double subscript.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/foreach1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/foreach2/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/freeopen/output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/functionPointer/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/inheritance1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/intfix_to_postfix/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/k 0-1 Knapsack/0-1 Knapsack.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/k 0-1 Knapsack/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/lambda 1.2/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/lambda1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/ncr/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/periority_queue/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/periority_queue/periority_queue.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/rana2.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/remove3/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/sequence1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/sequence1/print.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/sort1/fo/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/sort1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/sort2/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/test/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/test/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/test/output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/test/test.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/this/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/transform 1.1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/transform1/PRINT_ELEMENT.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic C++/transform1/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/file/PathClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/Hash_set.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/Kalamata.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/Ligurio.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/Linked_list.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/Olive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/OliveColor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/OliveName.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/Picholine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/inheritance/Tree_set.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic Java/loremipsun.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DP/Algorithm/LengthApproach/.ipynb_checkpoints/LongestPalindromicSubsequence-checkpoint.ipynb" afterPath="$PROJECT_DIR$/DP/Algorithm/LengthApproach/.ipynb_checkpoints/LongestPalindromicSubsequence-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DP/Algorithm/LengthApproach/LongestPalindromicSubsequence.ipynb" afterPath="$PROJECT_DIR$/DP/Algorithm/LengthApproach/LongestPalindromicSubsequence.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -266,7 +17,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -326,7 +77,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -370,19 +120,16 @@
               <option name="myItemId" value="Algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LengthApproach" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LeetCode" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -567,6 +314,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -773,24 +526,24 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22919819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23298033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39770868" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39770868" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -887,11 +640,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/leetcode002/Add two numbers.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode/leetcode003/Longest Substring Without Repeating Characters.py" />
-    <entry file="file://$PROJECT_DIR$/DP/Algorithm/LengthBasedApproach/LongestPalindromicSubsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/DP/Algorithm/LengthBasedApproach/LongestPalindromicSubsequence.py" />
+    <entry file="file://$PROJECT_DIR$/DP/Algorithm/LengthApproach/.ipynb_checkpoints/LongestPalindromicSubsequence-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
