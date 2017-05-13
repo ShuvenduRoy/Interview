@@ -7,7 +7,6 @@ class Node:
         self.val = val
 
 
-
 class BST:
     def __init__(self):
         self.root = None
@@ -39,4 +38,3 @@ class BST:
 arr = [4,3]
 bst = BST()
 bst.create(arr)
-print(bst)
