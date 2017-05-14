@@ -34,6 +34,31 @@ class BST:
                             current.RightNode = Node(val)
                             break;
 
+    def SampleBST(self):
+        arr = [8, 3, 1, 6, 4, 7, 10, 14, 13]
+
+        for val in arr:
+            if self.root == None:
+                self.root = Node(val)
+
+            else:
+                current = self.root
+
+                while 1:
+                    if val<current.val:
+                        if current.LeftNode:
+                            current = current.LeftNode
+                        else:
+                            current.LeftNode = Node(val)
+                            break;
+
+                    else:
+                        if current.RightNode:
+                            current = current.RightNode
+                        else:
+                            current.RightNode = Node(val)
+                            break;
+
 
 arr = [4,3]
 bst = BST()
