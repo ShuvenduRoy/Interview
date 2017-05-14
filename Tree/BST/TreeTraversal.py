@@ -1,4 +1,4 @@
-from Tree.Tree.Create import BST,Node
+from Tree.BST.Create import BST,Node
 
 
 def InOrder(node):
