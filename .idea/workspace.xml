@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d9951b-dc83-4a88-b34f-46fc29c1208f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tree/BST/RootToLeafSum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tree/BST/CheckIfBST.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tree/BST/Create.py" afterPath="$PROJECT_DIR$/Tree/BST/Create.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RootToLeafSum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RootToLeafSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/BST/RootToLeafSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="214">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckIfBST.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tree/BST/CheckIfBST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -123,6 +132,7 @@
         <option value="$PROJECT_DIR$/Tree/BST/Height.py" />
         <option value="$PROJECT_DIR$/Tree/BST/Create.py" />
         <option value="$PROJECT_DIR$/Tree/BST/RootToLeafSum.py" />
+        <option value="$PROJECT_DIR$/Tree/BST/CheckIfBST.py" />
       </list>
     </option>
   </component>
@@ -233,48 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RootToLeafSum">
-    <configuration default="false" name="TreeTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Interview" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Tree/TreeTraversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest size" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/BST" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Interview" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BST/Size.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="size" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.CheckIfBST">
     <configuration default="false" name="Size" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,6 +294,47 @@
       <module name="Interview" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BST/RootToLeafSum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest IsBST" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/BST" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Interview" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BST/CheckIfBST.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="IsBST" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CheckIfBST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/BST" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Interview" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BST/CheckIfBST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -468,19 +478,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.TreeTraversal" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest size" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Size" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Height" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RootToLeafSum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Size" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Height" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RootToLeafSum" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest IsBST" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CheckIfBST" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.RootToLeafSum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Height" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Size" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest size" />
-        <item index="4" class="java.lang.String" itemvalue="Python.TreeTraversal" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CheckIfBST" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest IsBST" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RootToLeafSum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Height" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Size" />
       </list>
     </recent_temporary>
   </component>
@@ -630,24 +640,31 @@
       <option name="project" value="LOCAL" />
       <updated>1494720893214</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Tree root to leat sum">
+      <created>1494722876463</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1494722876463</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_longestUniqueSubsttr - 2017.05.10 at 03h 35m 24s.xml">
-      <configuration name="Unittest longestUniqueSubsttr" configurationId="tests" />
+    <history-entry file="Unittest_IsBST - 2017.05.14 at 06h 57m 51s.xml">
+      <configuration name="Unittest IsBST" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_longestUniqueSubsttr - 2017.05.10 at 03h 35m 31s.xml">
-      <configuration name="Unittest longestUniqueSubsttr" configurationId="tests" />
+    <history-entry file="Unittest_IsBST - 2017.05.14 at 07h 01m 35s.xml">
+      <configuration name="Unittest IsBST" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_longestUniqueSubsttr - 2017.05.10 at 03h 38m 02s.xml">
-      <configuration name="Unittest longestUniqueSubsttr" configurationId="tests" />
+    <history-entry file="Unittest_IsBST - 2017.05.14 at 07h 01m 43s.xml">
+      <configuration name="Unittest IsBST" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_longestUniqueSubsttr - 2017.05.10 at 03h 38m 47s.xml">
-      <configuration name="Unittest longestUniqueSubsttr" configurationId="tests" />
+    <history-entry file="Unittest_IsBST - 2017.05.14 at 07h 01m 51s.xml">
+      <configuration name="Unittest IsBST" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_longestUniqueSubsttr - 2017.05.10 at 03h 39m 14s.xml">
-      <configuration name="Unittest longestUniqueSubsttr" configurationId="tests" />
+    <history-entry file="Unittest_IsBST - 2017.05.14 at 07h 02m 01s.xml">
+      <configuration name="Unittest IsBST" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_longestUniqueSubsttr - 2017.05.10 at 03h 42m 59s.xml">
       <configuration name="Unittest longestUniqueSubsttr" configurationId="tests" />
@@ -746,7 +763,8 @@
     <MESSAGE value="Directory renamed" />
     <MESSAGE value="bst size" />
     <MESSAGE value="Height of BST" />
-    <option name="LAST_COMMIT_MESSAGE" value="Height of BST" />
+    <MESSAGE value="Tree root to leat sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree root to leat sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -908,8 +926,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree/BST/RootToLeafSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="214">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/nose_helper/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/BST/CheckIfBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding />
         </state>
       </provider>
