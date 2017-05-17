@@ -87,6 +87,3 @@ class Prime:
         return l[:n]  # print result list limited to N elements
 
 
-test = Prime()
-primes = test.get_first_n_prime(10)
-print(primes)

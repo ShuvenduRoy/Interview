@@ -62,10 +62,27 @@ def get_hash(word):
     return result
 
 
+def print_dict(distionaty):
+    for v in distionaty:
+        for word in distionaty[v]:
+            print(word, end=" ")
+        print("")
+
+
 def find_same_anagram(str):
+    distionaty = dict()
+
     for word in str:
         key = get_hash(word)
-        print(word," ",key)
+
+        if key in distionaty:
+            distionaty[key].append(word)
+        else:
+            distionaty[key] = [word]
+
+
+
+    print_dict(distionaty)
 
 str = {"cat","dog","ogd","act","tca","ofg"}
 find_same_anagram(str)
