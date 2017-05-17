@@ -1,17 +1,16 @@
-
-
-
 class Prime:
-    def GetPrimt(self, n):
-        pass
+    @staticmethod
+    def get_first_n_prime(n):
+        return Prime.prime_historic(n)
 
-
-    def GetPrimeSmallerThanN(self, n):
-        primes = self.SieveOfEratosthenes2(n)
+    @staticmethod
+    def get_prime_smaller_than_n(n):
+        primes = Prime.sieve_of_eratosthenes_2(n)
         return primes
 
     # Complexity O(n log(log n) )
-    def SieveOfEratosthenes(self, n):
+    @staticmethod
+    def sieve_of_eratosthenes(n):
         primes = [True for i in range(n+1)]
         # initialize first prime number
         p = 2
@@ -32,7 +31,8 @@ class Prime:
         return ans
 
     # Complexity of O(n)
-    def SieveOfEratosthenes2(self, n):
+    @staticmethod
+    def sieve_of_eratosthenes_2(n):
         SPF = [0 for i in range(n+1)]
         isPrime = [True for i in range(n+1)]
         isPrime[0] = isPrime[1] = False
@@ -52,7 +52,28 @@ class Prime:
 
         return primes
 
+    @staticmethod
+    def prime_historic(n):
+        primes = set([2])
+
+        i, p = 2, 0
+
+        while True:
+            if Prime.is_prime(i, primes):
+                p+=1
+                if p == n:
+                    return primes
+            i+=1
+
+    @staticmethod
+    def is_prime(i, primes):
+        for prime in primes:
+            if not (i == prime or i % prime):
+                return False
+        primes.add(i)
+        return True
+
 
 test = Prime()
-primes = test.GetPrimeSmallerThanN(100)
+primes = test.get_first_n_prime(10)
 print(primes)
