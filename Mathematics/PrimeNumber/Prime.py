@@ -54,7 +54,7 @@ class Prime:
 
     @staticmethod
     def prime_historic(n):
-        primes = set([2])
+        primes = [2]
         i = 2
 
         while len(primes)<n:
@@ -67,7 +67,7 @@ class Prime:
         for prime in primes:
             if not (i == prime or i % prime):
                 return False
-        primes.add(i)
+        primes.append(i)
 
     @staticmethod
     def is_prime_regex(n):

@@ -49,4 +49,23 @@
 # 'a' will be mapped with first element of the array and 'z' with last. No uppercase
 #
 # Below is working code
+from Mathematics.PrimeNumber.Prime import Prime
 
+
+def get_hash(word):
+    hash = Prime.get_first_n_prime(26)
+    result = 1
+
+    for i in range(len(word)):
+        result = result * hash[ord(word[i])-97]
+
+    return result
+
+
+def find_same_anagram(str):
+    for word in str:
+        key = get_hash(word)
+        print(word," ",key)
+
+str = {"cat","dog","ogd","act","tca","ofg"}
+find_same_anagram(str)
