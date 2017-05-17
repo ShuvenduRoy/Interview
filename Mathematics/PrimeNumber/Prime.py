@@ -55,15 +55,12 @@ class Prime:
     @staticmethod
     def prime_historic(n):
         primes = set([2])
+        i = 2
 
-        i, p = 2, 0
-
-        while True:
-            if Prime.is_prime(i, primes):
-                p+=1
-                if p == n:
-                    return primes
-            i+=1
+        while len(primes)<n:
+            Prime.is_prime(i, primes)
+            i += 1
+        return primes
 
     @staticmethod
     def is_prime(i, primes):
@@ -71,7 +68,13 @@ class Prime:
             if not (i == prime or i % prime):
                 return False
         primes.add(i)
-        return True
+
+
+    @staticmethod
+    def is_prime_regex(n):
+        import re
+        # see http://tinyurl.com/3dbhjv
+        return re.match(r'^1?$|^(11+?)\1+$', '1' * n) == None
 
 
 test = Prime()
