@@ -69,12 +69,22 @@ class Prime:
                 return False
         primes.add(i)
 
-
     @staticmethod
     def is_prime_regex(n):
         import re
         # see http://tinyurl.com/3dbhjv
         return re.match(r'^1?$|^(11+?)\1+$', '1' * n) == None
+
+    @staticmethod
+    def regexp(n):
+        M = 100  # upper-bound of search space
+        l = list()  # result list
+
+        while len(l) < n:
+            l += filter(Prime.is_prime_regex, range(M - 100, M))  # append prime element of [M - 100, M] to l
+            M += 100  # increment upper-bound
+
+        return l[:n]  # print result list limited to N elements
 
 
 test = Prime()
