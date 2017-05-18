@@ -4,12 +4,13 @@ from itertools import islice
 class Prime:
     @staticmethod
     def get_first_n_prime(n):
-        return Prime.prime_historic(n)
+        # return Prime.prime_historic(n)
         return list(islice((p for p in Prime.posponded_sieve()), 0, n))
 
     @staticmethod
     def get_prime_smaller_than_n(n):
-        primes = Prime.sieve_of_eratosthenes_2(n)
+        # primes = Prime.sieve_of_eratosthenes_2(n)
+        primes = Prime.sieve_of_atkin(n)
         return primes
 
     # Complexity O(n log(log n) )
@@ -90,6 +91,8 @@ class Prime:
 
         return l[:n]  # print result list limited to N elements
 
+    # Posponded Sieve
+    # O(sqrt(n))
     @staticmethod
     def posponded_sieve():
         from itertools import count
@@ -114,5 +117,13 @@ class Prime:
                 if m not in sieve:  # no duplicates
                     break
             sieve[m] = s
+
+    # Sieve of atkin
+    # http://www.geeksforgeeks.org/sieve-of-atkin/
+    # http://stackoverflow.com/questions/10580159/sieve-of-atkin-explanation-and-java-example
+    # O(n / log log(n) )
+    @staticmethod
+    def sieve_of_atkin(n):
+        pass
 
 
