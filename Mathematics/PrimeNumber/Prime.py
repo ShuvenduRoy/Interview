@@ -123,7 +123,45 @@ class Prime:
     # http://stackoverflow.com/questions/10580159/sieve-of-atkin-explanation-and-java-example
     # O(n / log log(n) )
     @staticmethod
-    def sieve_of_atkin(n):
-        pass
+    def sieve_of_atkin(limit):
+        primes = []
+        if limit>2:
+            primes.append(2)
+        if limit>3:
+            primes.append(3)
 
+        sieve = [False] * (limit+1)
 
+        for x in range(1, limit):
+            if x*x>=limit:
+                break
+            for y in range(1, limit):
+                if y*y >= limit:
+                    break
+
+                n = (4*x*x) + (y*y)
+                if n <= limit and (n % 12 == 1 or n % 12 == 5):
+                    sieve[n] ^= True
+
+                n = (3*x*x) + (y*y)
+                if n <= limit and n%12 == 7:
+                    sieve[n] ^= True
+
+                n = (3 * x * x) - (y * y)
+                if x>y and n <= limit and n % 12 == 11:
+                    sieve[n] ^= True
+
+        for r in range(5, n):
+            if r*r>n:
+                break
+
+            for i in range (r*r, n, r*r):
+                sieve[i] = False
+
+        for i in range(5, limit):
+            if sieve[i]:
+                primes.append(i)
+
+        return primes
+
+print(Prime.sieve_of_atkin(12))
