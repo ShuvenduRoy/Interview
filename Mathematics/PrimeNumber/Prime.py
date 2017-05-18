@@ -1,7 +1,11 @@
+from itertools import islice
+
+
 class Prime:
     @staticmethod
     def get_first_n_prime(n):
         return Prime.prime_historic(n)
+        return list(islice((p for p in Prime.posponded_sieve()), 0, n))
 
     @staticmethod
     def get_prime_smaller_than_n(n):
@@ -20,7 +24,7 @@ class Prime:
                 for i in range(p*2, n+1, p):
                     primes[i] = False
 
-            p+=1
+            p += 1
 
         ans = []
 
@@ -85,5 +89,30 @@ class Prime:
             M += 100  # increment upper-bound
 
         return l[:n]  # print result list limited to N elements
+
+    @staticmethod
+    def posponded_sieve():
+        from itertools import count
+
+        yield 2; yield 3; yield 5; yield 7;
+        sieve = {}
+
+        ps = Prime.posponded_sieve()
+        p = next(ps) and next(ps)  # (3) a Prime to add to dict
+        q = p * p  # (9) its sQuare
+        for c in count(9, 2):  # the Candidate
+            if c in sieve:  # c's a multiple of some base prime
+                s = sieve.pop(c)  # i.e. a composite ; or
+            elif c < q:
+                yield c  # a prime
+                continue
+            else:  # (c==q):            # or the next base prime's square:
+                s = count(q + 2 * p, 2 * p)  # (9+6, by 6 : 15,21,27,33,...)
+                p = next(ps)  # (5)
+                q = p * p  # (25)
+            for m in s:  # the next multiple
+                if m not in sieve:  # no duplicates
+                    break
+            sieve[m] = s
 
 
