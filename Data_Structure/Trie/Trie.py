@@ -48,6 +48,34 @@ class Trie:
         else:
             del current_dict[_end]
 
+    @staticmethod
+    def delete_from_trie(trie, word):
+        current_dict = trie
+        path = [current_dict]
+
+        for letter in word:
+            current_dict = current_dict.get(letter, None)
+            path.append(current_dict)
+            if current_dict is None:
+                break
+
+        else:
+            if not path[-1].get(_end, None):
+                return
+
+            deleted_branch = []
+
+            for current_dict, letter in zip(reversed(path[:-1]) , reversed(word)):
+                if len(current_dict[letter]) <= 1:
+                    deleted_branch.append((current_dict, letter))
+                else:
+                    break
+
+            if len(deleted_branch) > 0:
+                del deleted_branch[-1][0][deleted_branch[-1][1]]
+            del path[-1][_end]
+
+
 trie = Trie.make_trie('foo', 'bar', 'baz', 'barz')
 Trie.insert_into_trie(trie, 'foro')
 Trie.delete_from_trie(trie, 'foro')
