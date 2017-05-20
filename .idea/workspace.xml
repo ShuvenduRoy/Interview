@@ -2,73 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d9951b-dc83-4a88-b34f-46fc29c1208f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Algorithm/LengthApproach/.ipynb_checkpoints/LongestPalindromicContinuousSubsequence - Manacher algorithm-checkpoint.ipynb" afterPath="$PROJECT_DIR$/DP/LengthApproach/.ipynb_checkpoints/LongestPalindromicContinuousSubsequence - Manacher algorithm-checkpoint.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Algorithm/LengthApproach/Longest Palndromic subsequence -- Continuous.ipynb" afterPath="$PROJECT_DIR$/DP/LengthApproach/Longest Palndromic subsequence -- Continuous.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Algorithm/LengthApproach/LongestPalindromicSubsequenceDP--NonContinuous.ipynb" afterPath="$PROJECT_DIR$/DP/LengthApproach/LongestPalindromicSubsequenceDP--NonContinuous.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/0-1 knapsack.py" afterPath="$PROJECT_DIR$/DP/knapsack/0-1 knapsack.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Arithmetic Slices.py" afterPath="$PROJECT_DIR$/DP/Arithmatic Slice/Arithmetic Slices.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Bionomial coefficient.py" afterPath="$PROJECT_DIR$/DP/Bionomial coefficient.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Climing Stairs.py" afterPath="$PROJECT_DIR$/DP/Climing Stairs.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Coin change (minimum coin).py" afterPath="$PROJECT_DIR$/DP/Coin change (minimum coin).py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Coin change (total way).py" afterPath="$PROJECT_DIR$/DP/Coin change (total way).py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Cutting a rod/Cutting a rod.cpp" afterPath="$PROJECT_DIR$/DP/Cutting a rod/Cutting a rod.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Dungeon Game.py" afterPath="$PROJECT_DIR$/DP/Dungeon Game.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Edit Distance.py" afterPath="$PROJECT_DIR$/DP/Edit Distance.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Edit distance Leetcode.py" afterPath="$PROJECT_DIR$/DP/Edit distance Leetcode.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Egg Dropping/Egg Dropping.cpp" afterPath="$PROJECT_DIR$/DP/Egg Dropping/Egg Dropping.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Kadane's Algorithm/Kadane's Algorithm.cpp" afterPath="$PROJECT_DIR$/DP/Kadane's Algorithm/Kadane's Algorithm.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LCS/LCS.java" afterPath="$PROJECT_DIR$/DP/LCS/LCS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LCS/LCS.py" afterPath="$PROJECT_DIR$/DP/LCS/LCS.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LIS/LCIS.cpp" afterPath="$PROJECT_DIR$/DP/LIS/LCIS.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LIS/LIS.cpp" afterPath="$PROJECT_DIR$/DP/LIS/LIS.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LIS/LIS.java" afterPath="$PROJECT_DIR$/DP/LIS/LIS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LIS/LIS.py" afterPath="$PROJECT_DIR$/DP/LIS/LIS.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LIS/O (n log n).py" afterPath="$PROJECT_DIR$/DP/LIS/O (n log n).py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Longest Bitonic Subsequence/Longest Bitonic Subsequence.cpp" afterPath="$PROJECT_DIR$/DP/Longest Bitonic Subsequence/Longest Bitonic Subsequence.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Longest Palindrome/Longest Palindrome.cpp" afterPath="$PROJECT_DIR$/DP/Longest Palindrome/Longest Palindrome.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Longest Valid Parenthesis.py" afterPath="$PROJECT_DIR$/DP/Longest Valid Parenthesis.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LongestContinuousSum/DP.py" afterPath="$PROJECT_DIR$/DP/LongestContinuousSum/DP.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LongestContinuousSum/LongestNoncontinusRecurseve.py" afterPath="$PROJECT_DIR$/DP/LongestContinuousSum/LongestNoncontinusRecurseve.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LongestPalindromicSubsequence.py" afterPath="$PROJECT_DIR$/DP/LongestPalindromicSubsequence.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/LongestSubstring/WithOutRepeating.py" afterPath="$PROJECT_DIR$/DP/LongestSubstring/WithOutRepeating.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Matrix Chain Manupulation/Matrix Chain Manupulation.cpp" afterPath="$PROJECT_DIR$/DP/Matrix Chain Manupulation/Matrix Chain Manupulation.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Matrix Multiplication.py" afterPath="$PROJECT_DIR$/DP/Matrix Multiplication.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Matrix Rectangle.py" afterPath="$PROJECT_DIR$/DP/Matrix Rectangle.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Maximum Profit in Share/Maximum Profit in Share.cpp" afterPath="$PROJECT_DIR$/DP/Maximum Profit in Share/Maximum Profit in Share.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Maximum sub Matrix/Maximum sub Matrix.cpp" afterPath="$PROJECT_DIR$/DP/Maximum sub Matrix/Maximum sub Matrix.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/MaximumSubArray/Solution.java" afterPath="$PROJECT_DIR$/DP/MaximumSubArray/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Min Cost path.py" afterPath="$PROJECT_DIR$/DP/Min Cost path.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Minimum Initial Points to Reach Destination/Minimum Initial Points to Reach Destination.cpp" afterPath="$PROJECT_DIR$/DP/Minimum Initial Points to Reach Destination/Minimum Initial Points to Reach Destination.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Minimum path sum.py" afterPath="$PROJECT_DIR$/DP/Minimum path sum.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Next Permutation/Next Permutation.cpp" afterPath="$PROJECT_DIR$/DP/Next Permutation/Next Permutation.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Palindrome Pertitotion/Palindrome Pertitotion.cpp" afterPath="$PROJECT_DIR$/DP/Palindrome Pertitotion/Palindrome Pertitotion.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Partition Problrm/Partition Problrm.cpp" afterPath="$PROJECT_DIR$/DP/Partition Problrm/Partition Problrm.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Previous Permtation/Previous Permtation.cpp" afterPath="$PROJECT_DIR$/DP/Previous Permtation/Previous Permtation.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Range Sum Query 2D.py" afterPath="$PROJECT_DIR$/DP/Range Sum Query 2D.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Regex Matching/Regex Matching.cpp" afterPath="$PROJECT_DIR$/DP/Regex Matching/Regex Matching.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Regular Expression match.py" afterPath="$PROJECT_DIR$/DP/Regular Expression match.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/SubSet Sum/SubSet Sum.cpp" afterPath="$PROJECT_DIR$/DP/SubSet Sum/SubSet Sum.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Sum Query in a 2d matrix/Sum Query in a 2d matrix.cpp" afterPath="$PROJECT_DIR$/DP/Sum Query in a 2d matrix/Sum Query in a 2d matrix.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Sum increasing Subsequence/Sum increasing Subsequence.cpp" afterPath="$PROJECT_DIR$/DP/Sum increasing Subsequence/Sum increasing Subsequence.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/UglyNumber/DP.py" afterPath="$PROJECT_DIR$/DP/UglyNumber/DP.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Unique Path 2.py" afterPath="$PROJECT_DIR$/DP/Unique Path 2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Unique Path.py" afterPath="$PROJECT_DIR$/DP/Unique Path.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Weihted Job Scheduling/Weihted Job Scheduling.cpp" afterPath="$PROJECT_DIR$/DP/Weihted Job Scheduling/Weihted Job Scheduling.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Wild card Matching/Wild card Matching.cpp" afterPath="$PROJECT_DIR$/DP/Wild card Matching/Wild card Matching.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Wildcard Matching.py" afterPath="$PROJECT_DIR$/DP/Wildcard Matching.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Word Break/main.cpp" afterPath="$PROJECT_DIR$/DP/Word Break/main.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/Word Wrap/main.cpp" afterPath="$PROJECT_DIR$/DP/Word Wrap/main.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/binaryTreeNumber/CountNumberOfTreesInBST.java" afterPath="$PROJECT_DIR$/DP/binaryTreeNumber/CountNumberOfTreesInBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/coinChange/Coin Change.cpp" afterPath="$PROJECT_DIR$/DP/coinChange/Coin Change.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/coinChange/Coin change with minimum coin.cpp" afterPath="$PROJECT_DIR$/DP/coinChange/Coin change with minimum coin.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/coinChange/CoinChange.java" afterPath="$PROJECT_DIR$/DP/coinChange/CoinChange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/double subscript/double subscript.cpp" afterPath="$PROJECT_DIR$/DP/double subscript/double subscript.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/knapsack/Knapsack.java" afterPath="$PROJECT_DIR$/DP/knapsack/Knapsack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/matrixMultiplicationCost/MatrixMultiplicationCost.java" afterPath="$PROJECT_DIR$/DP/matrixMultiplicationCost/MatrixMultiplicationCost.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/subsetSum/SubsetSum.java" afterPath="$PROJECT_DIR$/DP/subsetSum/SubsetSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/textJustify/Arithmetic Slice (Mathematic Approch).py" afterPath="$PROJECT_DIR$/DP/textJustify/Arithmetic Slice (Mathematic Approch).py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/textJustify/Maximum Binary rectangle.py" afterPath="$PROJECT_DIR$/DP/textJustify/Maximum Binary rectangle.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Problems/textJustify/TextJustification.java" afterPath="$PROJECT_DIR$/DP/textJustify/TextJustification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DP/LISS/Longest_Independent_Set.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,6 +15,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Interview$Trie.coverage" NAME="Trie Coverage Results" MODIFIED="1495221081172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Structure/Trie" />
     <SUITE FILE_PATH="coverage/Interview$DP__1_.coverage" NAME="DP (1) Coverage Results" MODIFIED="1494069945072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Problems/UglyNumber" />
+    <SUITE FILE_PATH="coverage/Interview$Longest_Independent_Set.coverage" NAME="Longest_Independent_Set Coverage Results" MODIFIED="1495258769245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/LISS" />
     <SUITE FILE_PATH="coverage/Interview$DP.coverage" NAME="DP Coverage Results" MODIFIED="1494067761783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Problems/LongestContinuousSum" />
     <SUITE FILE_PATH="coverage/Interview$Prime.coverage" NAME="Prime Coverage Results" MODIFIED="1495134986069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mathematics/PrimeNumber" />
     <SUITE FILE_PATH="coverage/Interview$recursive.coverage" NAME="recursive Coverage Results" MODIFIED="1494066069457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP/Problems/LongestContinuousSum" />
@@ -94,11 +29,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Trie.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Trie.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_Structure/Trie/Trie.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="523">
               <caret line="73" column="39" lean-forward="false" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest_Independent_Set.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DP/LISS/Longest_Independent_Set.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -164,6 +109,7 @@
         <option value="$PROJECT_DIR$/Mathematics/PrimeNumber/Prime.py" />
         <option value="$PROJECT_DIR$/DP/Problems/LIS/O (n log n).py" />
         <option value="$PROJECT_DIR$/Data_Structure/Trie/Trie.py" />
+        <option value="$PROJECT_DIR$/DP/LISS/Longest_Independent_Set.py" />
       </list>
     </option>
   </component>
@@ -225,70 +171,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="knapsack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Data_Structure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Data_Structure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Trie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Amazon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -323,26 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Trie">
-    <configuration default="false" name="MorrisTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/BST" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Interview" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BST/MorrisTraversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Longest_Independent_Set">
     <configuration default="false" name="Prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -414,6 +277,25 @@
       <module name="Interview" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Structure/Trie/Trie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Longest_Independent_Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP/LISS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Interview" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/LISS/Longest_Independent_Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -602,19 +484,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MorrisTraversal" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Prime" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1. Anagrams" />
-      <item index="3" class="java.lang.String" itemvalue="Python.O (n log n)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Trie" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Prime" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1. Anagrams" />
+      <item index="2" class="java.lang.String" itemvalue="Python.O (n log n)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Trie" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Longest_Independent_Set" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Trie" />
-        <item index="1" class="java.lang.String" itemvalue="Python.O (n log n)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Prime" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1. Anagrams" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MorrisTraversal" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Longest_Independent_Set" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Trie" />
+        <item index="2" class="java.lang.String" itemvalue="Python.O (n log n)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Prime" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1. Anagrams" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -909,7 +791,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495222068355</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Directory refactored">
+      <created>1495257502936</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1495257502936</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -949,14 +838,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255814" sideWeight="0.5030349" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3207856" sideWeight="0.4969651" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3207856" sideWeight="0.4969651" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32502708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.204236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.204236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1007,7 +897,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Word break" />
     <MESSAGE value="Constructing BST" />
     <MESSAGE value="Tree traversal" />
     <MESSAGE value="Inorder, preorder, postorder traversal" />
@@ -1032,7 +921,8 @@
     <MESSAGE value="Trie creation and insertion" />
     <MESSAGE value="Simple trie delete" />
     <MESSAGE value="trie complete delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="trie complete delete" />
+    <MESSAGE value="Directory refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Directory refactored" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1235,6 +1125,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1320,6 +1211,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
           <caret line="73" column="39" lean-forward="false" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/LISS/Longest_Independent_Set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
           <folding />
         </state>
       </provider>
