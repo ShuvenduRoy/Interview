@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1d9951b-dc83-4a88-b34f-46fc29c1208f" name="Default" comment="Word break">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Google/1. Word Break.py" />
+    <list default="true" id="a1d9951b-dc83-4a88-b34f-46fc29c1208f" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Coin change (minimum coin).py" afterPath="$PROJECT_DIR$/DP/coinChange/Coin change (minimum coin).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Coin change (total way).py" afterPath="$PROJECT_DIR$/DP/coinChange/Coin change (total way).py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Dungeon Game.py" afterPath="$PROJECT_DIR$/DP/Dungeon game/Dungeon Game.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Edit Distance.py" afterPath="$PROJECT_DIR$/DP/Edit distance/Edit Distance.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Edit distance Leetcode.py" afterPath="$PROJECT_DIR$/DP/Edit distance/Edit distance Leetcode.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Longest Valid Parenthesis.py" afterPath="$PROJECT_DIR$/DP/Longest Palindrome/Longest Valid Parenthesis.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/LongestPalindromicSubsequence.py" afterPath="$PROJECT_DIR$/DP/Longest Palindrome/LongestPalindromicSubsequence.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Matrix Multiplication.py" afterPath="$PROJECT_DIR$/DP/Matrix/Matrix Multiplication.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Matrix Rectangle.py" afterPath="$PROJECT_DIR$/DP/Matrix/Matrix Rectangle.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Min Cost path.py" afterPath="$PROJECT_DIR$/DP/Min cost path/Min Cost path.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Minimum path sum.py" afterPath="$PROJECT_DIR$/DP/Max path sum/Minimum path sum.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Range Sum Query 2D.py" afterPath="$PROJECT_DIR$/DP/Range sum query/Range Sum Query 2D.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Regular Expression match.py" afterPath="$PROJECT_DIR$/DP/Regex Matching/Regular Expression match.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Unique Path 2.py" afterPath="$PROJECT_DIR$/DP/Unique Path/Unique Path 2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Unique Path.py" afterPath="$PROJECT_DIR$/DP/Unique Path/Unique Path.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DP/Wildcard Matching.py" afterPath="$PROJECT_DIR$/DP/Wildcard matching/Wildcard Matching.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DP/Word Break/WB.py" afterPath="$PROJECT_DIR$/DP/Word Break/WB.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,38 +45,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LCS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/Longest Common Sub String/LCS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WB.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/Word Break/WB.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1. Word Break.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Google/1. Word Break.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -182,7 +165,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DP" />
+              <option name="myItemId" value="String" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="String" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -197,10 +202,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Word Break" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,11 +222,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Projects\Interview\DP\Climing Stairs" />
-      <recent name="C:\Projects\Interview\DP\Bionomial Coefficient" />
-      <recent name="C:\Projects\Interview\DP" />
-      <recent name="C:\Projects\Interview\DP\Problems\Arithmatic Slick" />
-      <recent name="C:\Projects\Interview\DP\Problems\knapsack" />
+      <recent name="C:\Projects\Interview\DP\Range sum query" />
+      <recent name="C:\Projects\Interview\DP\Min cost path" />
+      <recent name="C:\Projects\Interview\DP\Regex Matching" />
+      <recent name="C:\Projects\Interview\DP\Wildcard matching" />
+      <recent name="C:\Projects\Interview\String\Problem" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -854,7 +855,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495376640851</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Word break">
+      <created>1495378110037</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1495378110037</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -894,9 +902,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33736762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2677761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255814" sideWeight="0.5030349" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -953,7 +960,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Directory renamed" />
     <MESSAGE value="bst size" />
     <MESSAGE value="Height of BST" />
     <MESSAGE value="Tree root to leat sum" />
@@ -978,7 +984,8 @@
     <MESSAGE value="LISS" />
     <MESSAGE value="Longest common sub string" />
     <MESSAGE value="WB" />
-    <option name="LAST_COMMIT_MESSAGE" value="WB" />
+    <MESSAGE value="Word break" />
+    <option name="LAST_COMMIT_MESSAGE" value="Word break" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1301,10 +1308,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DP/Regex Matching/Regex Matching.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Google/1. Word Break.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="102">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
         </state>
       </provider>
